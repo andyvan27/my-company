@@ -1,0 +1,7 @@
+- Create React JS App with typescript
+npx create-react-app SPA --template typescript
+
+- Run
+cd spa
+npm start
+
