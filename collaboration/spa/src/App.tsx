@@ -1,5 +1,4 @@
 import { useState } from 'react'
-
 import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header';
@@ -20,7 +19,6 @@ function App() {
         task: 'Buy waggu'
     }
   ])
-
   return (
     <div className="App">
       <Header />
@@ -42,5 +40,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
