@@ -5,3 +5,11 @@ npx create-react-app SPA --template typescript
 cd spa
 npm start
 
+- Install react-bootstrap
+npm i react-bootstrap
+
+- Install bootstrap
+npm i bootstrap
+
+- Install msal
+npm install @azure/msal-react @azure/msal-browser
